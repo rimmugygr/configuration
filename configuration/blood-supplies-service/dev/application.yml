@@ -3,6 +3,7 @@ server:
 
 spring:
   datasource:
+    initialization-mode: always
     url: jdbc:mysql://localhost:3306/blood-stats
     username: root
     password: pass
