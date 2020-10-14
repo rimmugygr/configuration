@@ -10,3 +10,6 @@ spring:
     hibernate:
       ddl-auto: create-drop
     show-sql: true
+
+application:
+  supplies-in-PL-url: https://krew.info/zapasy/
