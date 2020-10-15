@@ -1,3 +1,6 @@
+server:
+  port: 1111
+
 spring:
   datasource:
     initialization-mode: always
@@ -12,4 +15,4 @@ spring:
     show-sql: true
 
 application:
-  supplies-in-PL-url: https://krew.info/zapasy/
+  supplies-in-PL-url: http://localhost:1111/test/parse-test
