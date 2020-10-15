@@ -15,4 +15,4 @@ spring:
     show-sql: true
 
 application:
-  supplies-in-PL-url: http://localhost:1111/test/parse-test
+  supplies-in-PL-url: https://krew.info/zapasy/
